@@ -30,6 +30,7 @@ button → Untuk menampilkan .... (tidak perlu dijelaskan fungsi buttonnya karna
 Berikut adalah file styles.css untuk mengatur tampilan:
 
 ![Screenshot 2025-04-03 133911](https://github.com/user-attachments/assets/59a57866-c815-4db2-8f99-c6afcd275ed7)
+
 (ss kode)
 
 Penjelasan Struktur CSS:
